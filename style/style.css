@@ -1,0 +1,212 @@
+/* parte 1 */
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.div1{
+    padding-top: 14%;
+    padding-left: 28%;
+    height: 700px;
+    background: url(../images/angel-jimenez.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+div #music{
+    width: 600px;
+    color: aliceblue;
+    font-size: 180px;
+    margin-left: 170px;
+    margin-top: 60px;
+    
+}
+/* parte 2 */
+div .imagen1{
+    height: 700px;
+    width: 30%;
+    margin-right: 330px;
+    background: white;
+    margin-top: 140px;
+    float: right;
+}
+
+div #parrafo1{
+    width: 420px;
+}
+
+div .button1{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    background: #FF3756;
+    border-color: #FF3756;
+    color: white;
+}
+.div3{
+    margin-top: 200px;
+    margin-left: 400px;
+    float: left;
+}
+
+.music1{
+    width: 200px;
+    margin-top: 0px;
+    height: 53px;
+    background: linear-gradient(to left, #DA0170,#FA4A54 60%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.button1:hover{
+    background-color: rgb(0, 0, 0);
+    transition: 2s;
+    cursor: pointer;
+    border-color: rgb(0, 0, 0);
+}
+
+.div3 h1{
+    font-size: 53px;
+    padding-top: 10px;
+    margin: 0px;
+}
+
+.clear{
+    clear: both;
+}
+
+/* parte 3*/
+
+.div4{
+    margin-top: 70px;
+    margin-right: 400px;
+    float: right;
+    width: 500px;
+}
+
+.div4 h1{
+    margin-top: 0px;
+    margin-left: 20px;
+    width: 550px;
+    font-size: 53px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.titulo2{
+    background: linear-gradient(to left, #DA0170,#FA4A54 60%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.general{
+    margin-top: 100px;
+}
+
+.imagen img{
+    margin-left: 350px;
+    height: 700px;
+    width: 30%;
+    margin-right: 20px;
+    float: left;
+}
+
+
+
+
+.parrafo2{
+    width: 420px;
+    margin-left: 20px;
+}
+
+.button2{
+    width: 150px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 15px;
+    background: #FF3756;
+    border-color: #FF3756;
+    color: white;
+}
+
+.button2:hover{
+    background-color: rgb(0, 0, 0);
+    transition: 2s;
+    cursor: pointer;
+    border-color: rgb(0, 0, 0);
+}
+
+/* parte 4 */
+.div5{
+    margin-top: 7%;
+    padding-top: 300px;
+    height: 500px;
+    background: url(../images/john-raptis.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo{
+    margin-left: 1400px;
+    line-height:1;
+    color: rgb(255, 255, 255);
+}
+
+.parrafo3{
+    color: rgb(255, 255, 255);
+    width: 450px;
+    margin-left: 1400px;
+}
+
+.button3{
+    width: 150px;
+    height: 40px;
+    margin-left: 1400px;
+    border-radius: 15px;
+    background: #FF3756;
+    border-color: #FF3756;
+    color: white;
+}
+
+.button3:hover{
+    background-color: rgb(0, 0, 0);
+    transition: 2s;
+    cursor: pointer;
+    border-color: rgb(0, 0, 0);
+}
+/* parte 5 */
+.div6{
+    padding-top: 50px;
+    background: #FF3756;
+}
+
+table{
+    width: 1000px;
+    margin-left: 20%;
+    color: rgb(255, 255, 255);
+}
+
+.esp td{
+    padding: 20px;
+}
+/* footer */
+footer{
+    background: #FF3756;
+    height: 50px;
+}
+
+hr{
+    width: 1100px;
+    margin-top: 60px;
+    margin-left: 379px;
+}
+
+.karen{
+    margin-left: 379px;
+    float: left;
+    color: rgb(255, 255, 255);
+}
+
+.correo{
+    margin-right: 420px;
+    float: right;
+    color: rgb(255, 255, 255);
+}
